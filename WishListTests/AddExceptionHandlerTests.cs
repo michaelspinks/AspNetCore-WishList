@@ -22,6 +22,3 @@ namespace WishListTests
         }
     }
 }
-
-// https://docs.microsoft.com/en-us/dotnet/api/system.io.streamreader.readtoend?view=netframework-4.8
-// https://docs.microsoft.com/en-us/dotnet/api/system.io.streamreader?view=netframework-4.8#examples
